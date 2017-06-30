@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Thu Jun 29 21:19:12 BRT 2017:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-015c-f65d-a8d4-000008ef1268 
+on database directory F:\Cadastro de Aluno\db with class loader WebappClassLoader
+  context: /Matricula
+  delegate: false
+  repositories:
+----------> Parent Classloader:
+ClassRealm[plugin>org.apache.tomcat.maven:tomcat7-maven-plugin:2.2, parent: sun.misc.Launcher$AppClassLoader@5c647e05]
+ 
+Loaded from file:/C:/Users/alunoinf/.m2/repository/org/apache/derby/derby/10.12.1.1/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_91-b14
+user.dir=F:\Cadastro de Aluno
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
